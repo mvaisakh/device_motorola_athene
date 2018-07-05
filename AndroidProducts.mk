@@ -1,4 +1,3 @@
-#
 # This file should set PRODUCT_MAKEFILES to a list of product makefiles
 # to expose to the build system.  LOCAL_DIR will already be set to
 # the directory containing this file. 
