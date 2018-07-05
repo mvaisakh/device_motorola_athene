@@ -33,6 +33,7 @@ PRODUCT_MODEL := athene
 
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST := ro.product.model
 DEVICE_MAINTAINERS="Jashkirat Virdi"
+export BOOTLEG_BUILD_TYPE=Shishufied
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
        PRODUCT_NAME="Moto G4/Plus"
