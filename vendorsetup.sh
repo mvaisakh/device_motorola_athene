@@ -1,2 +1,2 @@
 add_lunch_combo bootleg_athene-userdebug
-add_lunch_combo bootleg_athene-eng
+
